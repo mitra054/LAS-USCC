@@ -1,4 +1,4 @@
-# LAS-USCCSD Calculation Tool
+# LAS-USCCSD:  A code to perform localized active space unitary selected coupled cluster calculations
 
 ## Overview
 This repository contains the necessary code to run LAS-USCCSD (Localized Actice Space Unitary Selected Coupled Cluster with Single and Double excitations) calculations. It includes modified versions of the `mrh` and `QLAS-UCCSD` libraries tailored for specific computational tasks.
